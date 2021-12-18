@@ -1,0 +1,3 @@
+[submodule "async-util"]
+	path = async-util
+	url = git@github.com:martian17/async-util.git
